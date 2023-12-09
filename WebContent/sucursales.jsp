@@ -6,7 +6,7 @@
 <meta charset="UTF-8">
 <title>McDonald's</title>
 <link href="vendor/bulma-0.8.0/css/bulma.min.css" rel="stylesheet"> <!-- Agregando el estilo de Bulma. -->
-<link href="vendor/fontawesome-free-5.13.0-web/css/all.min.css" rel="stylesheet"> <!-- Agregando los iconos. -->
+<link href="vendor/fontawesome-free-6.5.0-web/css/all.min.css" rel="stylesheet"> <!-- Agregando los iconos. -->
 </head>
 <body>
 	<!-- NOTA: Todo lo que esta como atributo en las clases, son "Helpers" del FrameWork Bulma, osea, ejecutan funciones muy puntuales. -->
